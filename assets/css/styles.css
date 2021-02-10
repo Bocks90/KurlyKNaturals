@@ -1,24 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
-/*----------------------------------------- Colors */
+/*----------------------------------------check- Colors */
 
-section{
-    background-color: blue;
-    color: red;
+.about {
+    background-color: #b08d57;
+}
+body {
+    background-color: #b08d57;
+}
+
+.benefits{
+    background-color: #b08d57;
+}
+
+.bg-offers {
+    background-color: #b08d57;
+}
+
+html {
+    border: #b08d57 solid 4px;
+}
+
+.offer-section{
+    background-color: #b08d57;
+    color: #fafafa;
 }
 
 .nav-bg {
-    background-color: black;
+    background-color: #b08d57;
 }
 
 #menu-bar {
-    background-image: linear-gradient(-90deg, #37414f, #0d0f13);
+    background-color: #b08d57;
+    
 }
 
 /*----------------------------------------- text */
 
 body {
+     
+    font-family: "Cormorant Garamond", sans-serif;
     
+}
+
+.benefit-list {
+    font-family: "Cormorant Garamond", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+    
+}
+
+#menu-bar {
+    position: relative;
+}
+   
+
+p{
+    font-family: "Cormorant Garamond", sans-serif;
+    font-size: 24px;
+
 }
 
 .nav-item a {
@@ -51,15 +93,135 @@ li {
 /*----------------------------------------- Homepage Image */
 
  #home-img {
-     height: 600px;
+     height: 800px;
      width: 100%;
-     background: url(../images/Homeimg.jpg);
+     background: url(../images/COVER.jpg);
      background-size: cover;
      background-position: center center;
  }
 
+ #cover-text h1
+ { 
+
+     text-transform: uppercase;
+
+ } 
+
+ 
+
  #cover-text {
-     font-family: Cormorant Garamond", sans-serif;
-     padding-top: 40px;
+     font-family: "Cormorant Garamond", sans-serif;
+     color: #eeeeee;
      text-align: center;
+     background-color: #b08d57;
+     opacity: 0.7;
+     padding-top: 20px;
+
+     height:200px;
+     width:400px;
+     bottom: 50px;
+     right: 50%;
+
+     position: absolute;
+     margin: 0 auto;
+     
  }
+
+ #cover-text i{
+     font-weight: bold;
+     font-size:24px;
+ }
+
+ #cover-img {
+     position: relative;
+     text-align: center;
+        
+ }
+
+/*----------------------------------------- Coaching Div box */
+
+.offer-section h2 { 
+    
+    margin: 0px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.offer-section {
+    background-color: #b08d57;
+}
+
+.offer-box {
+    border: 4px solid #c0c0c0;
+    margin: 0 auto;
+    margin-top: 24px;
+    margin-left: 16px;
+    background-color: #fafafa;
+     opacity: 0.7;
+     color: #b08d57;
+     
+
+}
+
+.offer-section .offer-box {
+
+    
+
+    width: 48%;
+    display: inline;
+    height: 500px;
+    float: left;
+    padding-top: 20px;
+    text-align: center;
+    font-family: "Cormorant Garamond", sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.offer-section .offer-box h4 {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.offer-section p {
+    margin-bottom: 0;
+    background-color: #b08d57;
+    text-align: center;
+    
+}
+
+/*----------------------------------------- Responsive Adjustments */
+
+@media screen and (max-width:943px) {
+    
+    #cover-text {
+        left: 20px;
+    }
+}
+
+/*----------------------------------------- benefits  section */
+
+.kurly-benefits {
+    background-image: url(../images/Homeimg.jpg );
+    background-position: 50% 95%;
+    background-repeat: no-repeat;
+    background-size: 35%;
+    
+}
+
+.benefits {
+    text-align: center;
+    padding: 8px;
+
+}
+
+.benefits h2 {
+    margin-bottom: 72px;
+    position: relative;
+    top: 32px;
+}
+
+    /* position: absolute;
+}
