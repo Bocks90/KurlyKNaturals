@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #b08d57;
+    background-color: #eeeeee;
 }
 
 
@@ -29,7 +29,7 @@ html {
 
 .offer-section{
     background-color: #b08d57;
-    color: #fafafa;
+    color: #eeeeee;
 }
 
 .nav-bg {
@@ -65,7 +65,7 @@ form {
 }
 
 .benefits {
-    color: #fafafa;
+    color: #eeeeee;
 }
 
 #menu-bar {
@@ -110,10 +110,14 @@ section {
 }
 
 div {
-   font-family: 'Cormorant Garamond', sans-serif;
-    
+   
 }
 
+h2 h4 h1 {
+    font-family: 'Cormorant Garamond', sans-serif;
+    text-align: center;
+    
+}
 /*----------------------------------------- Homepage Image */
 
  #home-img {
@@ -181,8 +185,8 @@ div {
     border: 4px solid #c0c0c0;
     margin: 0 auto;
     margin-top: 24px;
-    background-color: #fafafa;
-     opacity: 0.7;
+    background-color: #eeeeee;
+     opacity: 0.9;
      color: #b08d57;
      
 
@@ -220,13 +224,6 @@ div {
 
 /*----------------------------------------- benefits  section */
 
-.kurly-benefits {
-    background-image: url(../images/Homeimg.jpg );
-    background-position: 50% 95%;
-    background-repeat: no-repeat;
-    background-size: 35%;
-    
-}
 
 .benefits {
     text-align: center;
@@ -416,6 +413,21 @@ footer {
 }
 /*----------------------------------------- Products & Service*/
 
+.natural-products h4 {
+    text-align: center;
+    padding: 24px;
+    color: #b08d57;
+    text-decoration: underline;
+}
+
+.natural-products img {
+    border-radius: 50%;
+    padding-bottom: 24px;
+}
+
+.natural-products p {
+    color: #b08d57;
+}
 /*----------------------------------------- Forms*/
  
 form {
