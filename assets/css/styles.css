@@ -435,6 +435,17 @@ form {
     color: #b08d57;
 }
 
+form button {
+    margin-bottom: 16px;
+    background-color:#b08d57;
+    color: #eeeeee;
+}
+
+form div {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
 /*----------------------------------------- Responsive Adjustments */
 
 @media screen and (max-width: 529px){
