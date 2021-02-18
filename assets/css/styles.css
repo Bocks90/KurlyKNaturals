@@ -109,9 +109,7 @@ section {
    
 }
 
-div {
-   
-}
+
 
 h2 h4 h1 {
     font-family: 'Cormorant Garamond', sans-serif;
@@ -234,6 +232,9 @@ h2 h4 h1 {
     margin-bottom: 72px;
     position: relative;
     top: 32px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
 }
 
     /* 
@@ -387,7 +388,8 @@ footer {
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: underline ;
+    padding-bottom: 16px;
 }
 
 #photos {
