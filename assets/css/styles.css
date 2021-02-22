@@ -109,8 +109,6 @@ section {
    
 }
 
-
-
 h2 h4 h1 {
     font-family: 'Cormorant Garamond', sans-serif;
     text-align: center;
@@ -125,7 +123,6 @@ h2 h4 h1 {
      background-size: cover;
      background-position: center center;
  }
-
 
  #cover-text h1 { 
      text-transform: uppercase;
@@ -160,8 +157,6 @@ h2 h4 h1 {
         
  }
 
- 
-
  /*----------------------------------------- Cover image Services */
 
 
@@ -174,7 +169,6 @@ h2 h4 h1 {
     padding-bottom: 24px;
 }
 
-
 .offer-section {
     background-color: #b08d57;
 }
@@ -186,14 +180,9 @@ h2 h4 h1 {
     background-color: #eeeeee;
      opacity: 0.9;
      color: #b08d57;
-     
-
 }
 
 .offer-section .offer-box {
-
-    
-
     width: 48%;
     display: inline-block;
     height: 500px;
@@ -211,18 +200,12 @@ h2 h4 h1 {
 }
 
 .offer-section p {
-
     font-size: 20px;
     margin-bottom: 0;
     background-color: #b08d57;
-    text-align: center;
-    
+    text-align: center; 
 }
-
-
 /*----------------------------------------- benefits  section */
-
-
 .benefits {
     text-align: center;
     padding: 8px;
@@ -236,12 +219,7 @@ h2 h4 h1 {
     text-transform: uppercase;
     text-align: center;
 }
-
-    /* 
-}
-
 /*---------------------------------------- Testimonials */
-
 .test-style h2 {
     color: #b08d57;
     text-align: center;
@@ -374,6 +352,16 @@ footer {
     width: 250px;
     height: 250px;
     
+}
+
+#photos p {
+    color: #b08d57;
+    text-align: center;
+}
+
+.services {
+    margin:16px;
+    padding:24px
 }
 
 #photos h2 {
