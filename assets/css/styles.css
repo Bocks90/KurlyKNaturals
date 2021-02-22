@@ -51,7 +51,7 @@ body {
 }
 
 form {
-    font-family:'Cormorant Garamond'sans-serif;
+    font-family:'Cormorant Garamond', sans-serif;
     font-size: 20px;
 }
 
@@ -91,7 +91,7 @@ p {
 }
 
 nav a:hover {
-  color: #d4d4d4;
+  color: gold;
   text-decoration: none;
 }
 
@@ -404,14 +404,18 @@ footer {
 .contact-btn {
     color: #eeeeee;
     background-color: #b08d57;
-    margin-right: 8px;
     position: absolute;
-    right: 30%;
+    right: 50%;
 }
 
 .contact-btn a {
     font-size: 20px;
-    color: #d4d4d4;
+    color: #eeeeee;
+    padding: 24px;
+}
+
+.contact-btn a:hover {
+    color: gold;
 }
 /*----------------------------------------- Products & Service*/
 
@@ -424,7 +428,7 @@ footer {
 
 .natural-products img {
     border-radius: 50%;
-    padding-bottom: 24px;
+    padding: 16px;
 }
 
 .natural-products p {
