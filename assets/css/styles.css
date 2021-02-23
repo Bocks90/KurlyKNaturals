@@ -370,7 +370,7 @@ footer a {
 }
 
 #photos p {
-    color: #b08d57;
+    color: var(--md-brown);
     text-align: center;
 }
 
@@ -381,14 +381,14 @@ footer a {
 }
 
 #photos h2 {
-    color: #b08d57;
+    color: var(--md-brown);
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
 }
 
 #photos h4 {
-    color: #b08d57;
+    color: var(--md-brown);
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
@@ -401,7 +401,7 @@ footer a {
 }
 
 #photos p{
-    color: #b08d57;
+    color: var(--md-brown);
 }
 
 .contact-btn {
