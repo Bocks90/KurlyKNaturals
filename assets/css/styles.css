@@ -31,7 +31,11 @@ body {
 .kurly-benefits {
     background-color: var(--main-brown);
 }
+
+.products {
+    background-color: var(--black);
 }
+
 /*----------------------------------------- text */
 body {
     font-family: 'Cormorant Garamond', sans-serif;
@@ -371,8 +375,6 @@ footer a {
 }
 
 .services {
-    padding:24px;
-    background-color: var(--black);
     padding: 24px;
     background-color: var(--black);
     width: 100%;
@@ -419,6 +421,13 @@ footer a {
     color: gold;
 }
 /*----------------------------------------- Products & Service*/
+
+.products h2 {
+    color: var(--md-brown);
+    font-weight:900;
+    text-transform:uppercase;
+    text-align:center;
+}
 
 .natural-products h4 {
     text-align: center;
