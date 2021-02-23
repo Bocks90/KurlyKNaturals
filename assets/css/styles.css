@@ -151,13 +151,13 @@ h2 h4 h1 {
 }
 
 .offer-box {
-    border: 4px solid #c0c0c0;
+    border: 4px solid var(--off-white);
     margin-left: 8px;
     margin-right: 8px;
     margin-top: 24px;
-    background-color: #eeeeee;
+    background-color: var(--black);
      opacity: 0.9;
-     color: #b08d57;
+     color: var(--md-brown);
 }
 
 .offer-section .offer-box {
@@ -439,7 +439,9 @@ form div {
 .offer-section .offer-box {
     width: 80%;
     height: 500px;
-    padding-top: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 16px;
     display: block;
     text-align: center; 
     font-family: 'Cormorant Garamond', sans-serif;
@@ -448,6 +450,24 @@ form div {
     font-weight: 600;
 }
 }
+
+@media screen and (max-width:543px) {
+
+.offer-section .offer-box {
+    width: 95%;
+    height: 550px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 16px;
+    display: block;
+    text-align: center;
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    font-weight: 600;
+}
+}
+
 
 @media screen and (max-width: 600px) {
 #cover-text {
