@@ -447,8 +447,8 @@ footer a {
 /*----------------------------------------- Forms*/
  
 form {
-    background-color: #eeeeee;
-    color: #b08d57;
+    background-color: var(--main-brown);
+    color: var(--off-white);
 }
 
 form button {
