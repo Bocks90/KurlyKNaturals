@@ -283,7 +283,7 @@ footer a {
 
 
 .test-style h2 {
-    color: var(--main-brown);
+    color: var(--md-brown);
     text-align: center;
     text-transform: uppercase ;
     font-weight: bold;
@@ -316,7 +316,7 @@ footer a {
 }
 
 .carousel-item {
-    color: var(--main-brown);
+    color: var(--md-brown);
     font-size: 14px;
     text-align: center;
     overflow: hidden;
@@ -349,7 +349,7 @@ footer a {
 
 .carousel .overview strong {
     text-transform: uppercase;
-    color: var(--main-brown);
+    color: var(--md-brown);
 }
 
 .carousel .carousel-control {
