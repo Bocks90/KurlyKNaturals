@@ -372,7 +372,8 @@ footer a {
 
 .services {
     margin:16px;
-    padding:24px
+    padding:24px;
+    background-color: var(--black);
 }
 
 #photos h2 {
@@ -397,7 +398,6 @@ footer a {
 
 #photos p{
     color: #b08d57;
-
 }
 
 .contact-btn {
