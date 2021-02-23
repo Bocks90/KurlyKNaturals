@@ -109,11 +109,21 @@ footer {
 
 footer ul {
     font-size: 36px;
-    padding-left: 0;
+    padding-left: 0; 
+}
+
+footer a {
+    color: var(--off-white);
+}
+
+footer img {
+    padding-top: 8px;
 }
 
 footer h5 {
-    padding-top: 16px;
+   padding-top: 8px;
+    font-weight: 700;
+    font-size: 24px;
 }
 
 footer a {
