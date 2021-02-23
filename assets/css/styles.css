@@ -20,6 +20,10 @@ body {
     background-color: var(--main-brown);
 }
 
+.offer-section {
+     background-color: var(--main-brown);
+}
+
 #menu-bar {
     background-color: var(--main-brown);
 }
@@ -143,10 +147,7 @@ h2 h4 h1 {
     text-align: center;
     padding-top: 24px;
     padding-bottom: 24px;
-}
-
-.offer-section {
-    background-color: #b08d57;
+    color: var(--off-white);
 }
 
 .offer-box {
