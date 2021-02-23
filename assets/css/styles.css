@@ -27,6 +27,11 @@ body {
 #menu-bar {
     background-color: var(--main-brown);
 }
+
+.kurly-benefits {
+    background-color: var(--main-brown);
+}
+}
 /*----------------------------------------- text */
 body {
     font-family: 'Cormorant Garamond', sans-serif;
@@ -48,7 +53,7 @@ form {
 }
 
 .benefits {
-    color: #eeeeee;
+    color: var(--off-white);
 }
 
 #menu-bar {
@@ -458,6 +463,7 @@ form div {
     height: 550px;
     padding: 10px;
     margin: auto;
+    margin-top: 16px;
     margin-bottom: 16px;
     display: block;
     text-align: center;
