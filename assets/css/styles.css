@@ -180,8 +180,8 @@ h2 h4 h1 {
 .offer-section p {
     font-size: 20px;
     margin-bottom: 0;
-    background-color: #b08d57;
     text-align: center; 
+    color: var(--off-white);
 }
 /*----------------------------------------- benefits  section */
 .benefits {
