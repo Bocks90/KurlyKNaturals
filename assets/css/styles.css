@@ -178,6 +178,47 @@ footer a {
 
  /*----------------------------------------- Cover image Services */
 
+ 
+ #service-img {
+     height: 800px;
+     width: 100%;
+     background: url(../images/servicecoverimg.jpg);
+     background-size: cover;
+     background-position: center center;
+ }
+
+ #cover-text h1 { 
+     text-transform: uppercase;
+} 
+
+ #cover-text {
+     font-family: 'Cormorant Garamond', sans-serif;
+     color: var(--off-white);
+     text-align: center;
+     background-color: var(--main-brown);
+     opacity: 0.7;
+     padding-top: 20px;
+
+     height:300px;
+     width:400px;
+     bottom: 50px;
+     right: 50%;
+
+     position: absolute;
+     margin: 0 auto;
+     
+ }
+
+ #cover-text i{
+     font-weight: bold;
+     font-size:24px;
+ }
+
+ #cover-img {
+     position: relative;
+     text-align: center;
+        
+ }
 
 /*----------------------------------------- Coaching Div box */
 
