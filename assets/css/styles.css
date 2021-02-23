@@ -461,9 +461,11 @@ form button {
     color: #eeeeee;
 }
 
-form div {
+form .form-box {
     margin-left: 8px;
     margin-right: 8px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 /*----------------------------------------- Responsive Adjustments */
