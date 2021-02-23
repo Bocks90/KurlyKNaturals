@@ -451,6 +451,10 @@ form {
     color: var(--off-white);
 }
 
+form h2 {
+    padding-top: 24px;
+}
+
 form button {
     margin-bottom: 16px;
     background-color:#b08d57;
