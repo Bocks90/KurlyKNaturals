@@ -59,8 +59,7 @@ p {
 
 .nav-item a {
     font-family: 'Cormorant Garamond', sans-serif;
-    color: var(--off-white);
-       
+    color: var(--off-white); 
 }
 
 .nav-item a i {
@@ -75,23 +74,19 @@ nav a:hover {
 }
 
 li {
-     
      margin: 0 auto;
      padding: 8px;
      font-size: 20px;
      font-weight: 700;  
-
 }
 
 section {
-    font-family: 'Cormorant Garamond', sans-serif;
-   
+    font-family: 'Cormorant Garamond', sans-serif; 
 }
 
 h2 h4 h1 {
     font-family: 'Cormorant Garamond', sans-serif;
-    text-align: center;
-    
+    text-align: center;  
 }
 /*----------------------------------------- Homepage Image */
 
@@ -109,9 +104,9 @@ h2 h4 h1 {
 
  #cover-text {
      font-family: 'Cormorant Garamond', sans-serif;
-     color: #eeeeee;
+     color: var(--off-white);
      text-align: center;
-     background-color: #b08d57;
+     background-color: var(--main-brown);
      opacity: 0.7;
      padding-top: 20px;
 
