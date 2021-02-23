@@ -371,9 +371,11 @@ footer a {
 }
 
 .services {
-    margin:16px;
     padding:24px;
     background-color: var(--black);
+    padding: 24px;
+    background-color: var(--black);
+    width: 100%;
 }
 
 #photos h2 {
