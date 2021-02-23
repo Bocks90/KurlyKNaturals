@@ -457,8 +457,8 @@ form h2 {
 
 form button {
     margin-bottom: 16px;
-    background-color:#b08d57;
-    color: #eeeeee;
+    background-color: var(--main-brown);
+    color: var(--off-white);
 }
 
 form .form-box {
