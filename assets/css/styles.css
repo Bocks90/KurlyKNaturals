@@ -405,10 +405,10 @@ footer a {
 }
 
 .contact-btn {
-    color: #eeeeee;
-    background-color: #b08d57;
+    color: var(--off-white);
+    background-color: var(--md-brown);
     position: absolute;
-    right: 50%;
+    right: 30%;
 }
 
 .contact-btn a {
