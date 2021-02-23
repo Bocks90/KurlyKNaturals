@@ -432,7 +432,7 @@ footer a {
 .natural-products h4 {
     text-align: center;
     padding: 24px;
-    color: #b08d57;
+    color: var(--md-brown);
     text-decoration: underline;
 }
 
@@ -442,7 +442,7 @@ footer a {
 }
 
 .natural-products p {
-    color: #b08d57;
+    color: var(--md-brown);
 }
 /*----------------------------------------- Forms*/
  
