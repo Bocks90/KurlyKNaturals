@@ -64,6 +64,10 @@ form {
     position: relative;
 }
    
+#menu-bar img {
+    width: 80px;
+    height: 80px;
+}
 
 p {
     font-family: 'Cormorant Garamond', sans-serif;
