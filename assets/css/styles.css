@@ -9,47 +9,20 @@
     --max-width: 1500px;
 }
 
-/*----------------------------------------check- Colors */
-
-.about {
-    background-color: #b08d57;
-}
-
+html,
 body {
-    background-color: #eeeeee;
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 2px;
 }
-
-
-footer {
-    background-color: #b08d57;
-}
-
-.benefits{
-    background-color: #b08d57;
-}
-
-.bg-offers {
-    background-color: #b08d57;
-}
-
-html {
-    border: #b08d57 solid 4px;
-}
-
-.offer-section{
-    background-color: #b08d57;
-    color: #eeeeee;
-}
-
-.nav-bg {
-    background-color: #b08d57;
+/*----------------------------------------check- background Colors */
+body {
+    background-color: var(--main-brown);
 }
 
 #menu-bar {
-    background-color: #b08d57;
-    
+    background-color: var(--main-brown);
 }
-
 /*----------------------------------------- text */
 
 body {
