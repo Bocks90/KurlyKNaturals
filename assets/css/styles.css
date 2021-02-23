@@ -24,12 +24,9 @@ body {
     background-color: var(--main-brown);
 }
 /*----------------------------------------- text */
-
 body {
-     
     font-family: 'Cormorant Garamond', sans-serif;
-    font-size: 20px;
-    
+    font-size: 20px;    
 }
 
 form {
@@ -62,7 +59,7 @@ p {
 
 .nav-item a {
     font-family: 'Cormorant Garamond', sans-serif;
-    color: #eeeeee;
+    color: var(--off-white);
        
 }
 
