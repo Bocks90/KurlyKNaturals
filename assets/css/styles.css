@@ -126,6 +126,8 @@ footer a {
 
 footer img {
     padding-top: 8px;
+    width: 80px;
+    height: 80px;
 }
 
 footer h5 {
