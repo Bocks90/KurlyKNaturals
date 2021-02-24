@@ -39,12 +39,12 @@ body {
 /*----------------------------------------- text */
 body {
     font-family: 'Cormorant Garamond', sans-serif;
-    font-size: 20px;    
+    font-size: 1.25rem;    
 }
 
 form {
     font-family:'Cormorant Garamond', sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .benefit-list {
@@ -116,7 +116,7 @@ footer {
 }
 
 footer ul {
-    font-size: 36px;
+    font-size: 2.25rem;
     padding-left: 0; 
 }
 
@@ -131,7 +131,7 @@ footer img {
 footer h5 {
    padding-top: 8px;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 footer a {
@@ -241,9 +241,9 @@ footer a {
     margin-left: 8px;
     margin-right: 8px;
     margin-top: 24px;
-    background-color: var(--black);
+    background-color: var(--md-brown);
      opacity: 0.9;
-     color: var(--md-brown);
+     color: var(--black);
 }
 
 .offer-section .offer-box {
@@ -287,7 +287,7 @@ footer a {
 
 
 .test-style h2 {
-    color: var(--md-brown);
+    color: var(--black);
     text-align: center;
     text-transform: uppercase ;
     font-weight: bold;
@@ -320,7 +320,7 @@ footer a {
 }
 
 .carousel-item {
-    color: var(--md-brown);
+    color: var(--black);
     font-size: 14px;
     text-align: center;
     overflow: hidden;
@@ -353,7 +353,7 @@ footer a {
 
 .carousel .overview strong {
     text-transform: uppercase;
-    color: var(--md-brown);
+    color: var(--black);
 }
 
 .carousel .carousel-control {
@@ -397,7 +397,7 @@ footer a {
 }
 
 .testimonial {
-    background-color: var(--black);
+    background-color: var(--md-brown);
 }
 /*----------------------------------------- Banner*/
 
