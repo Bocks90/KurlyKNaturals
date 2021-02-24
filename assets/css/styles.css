@@ -226,7 +226,10 @@ footer a {
 
 /*----------------------------------------- Coaching Div box */
 
-
+.coaching-img img {
+       width: 80%;
+       height: 20rem;
+}
 
 .offer-section h2 { 
     margin: 0px;
