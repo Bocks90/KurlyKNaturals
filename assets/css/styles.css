@@ -423,19 +423,19 @@ footer a {
 
 .services {
     padding: 24px;
-    background-color: var(--black);
+    background-color: var(--off-white);
     width: 100%;
 }
 
 #photos h2 {
-    color: var(--md-brown);
+    color: var(--main-brown);
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
 }
 
 #photos h4 {
-    color: var(--md-brown);
+    color: var(--main-brown);
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
@@ -443,13 +443,8 @@ footer a {
     padding-bottom: 16px;
 }
 
-#photos {
-    background-color: #eeeeee;
-}
-
 #photos p{
-    color: var(--md-brown);
-}
+    color: var(--main-brown);
 
 .contact-btn {
     color: var(--off-white);
