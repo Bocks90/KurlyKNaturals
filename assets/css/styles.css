@@ -33,7 +33,7 @@ body {
 }
 
 .products {
-    background-color: var(--black);
+    background-color: var(--md-brown);
 }
 
 /*----------------------------------------- text */
@@ -417,7 +417,7 @@ footer a {
 }
 
 #photos p {
-    color: var(--md-brown);
+    color: var(--main-brown);
     text-align: center;
 }
 
@@ -443,8 +443,10 @@ footer a {
     padding-bottom: 16px;
 }
 
+
 #photos p{
     color: var(--main-brown);
+}
 
 .contact-btn {
     color: var(--off-white);
@@ -465,7 +467,7 @@ footer a {
 /*----------------------------------------- Products & Service*/
 
 .products h2 {
-    color: var(--md-brown);
+    color: var(--black);
     font-weight:900;
     text-transform:uppercase;
     text-align:center;
@@ -474,7 +476,7 @@ footer a {
 .natural-products h4 {
     text-align: center;
     padding: 24px;
-    color: var(--md-brown);
+    color: var(--black);
     text-decoration: underline;
 }
 
@@ -484,7 +486,7 @@ footer a {
 }
 
 .natural-products p {
-    color: var(--md-brown);
+    color: var(--black);
 }
 /*----------------------------------------- Forms*/
  
