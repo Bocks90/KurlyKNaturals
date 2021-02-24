@@ -93,7 +93,7 @@ nav a:hover {
 li {
      margin: 0 auto;
      padding: 8px;
-     font-size: 20px;
+     font-size: 1.25rem;
      font-weight: 700;  
 }
 
@@ -413,7 +413,6 @@ footer a {
 .gallery img {
     width: 250px;
     height: 250px;
-    
 }
 
 #photos p {
@@ -432,6 +431,7 @@ footer a {
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
+    
 }
 
 #photos h4 {
@@ -471,6 +471,7 @@ footer a {
     font-weight:900;
     text-transform:uppercase;
     text-align:center;
+    padding: 24px 16px;
 }
 
 .natural-products h4 {
