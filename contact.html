@@ -19,21 +19,25 @@
     <header>
         <div class="header">
             <nav class="navbar navbar-expand-sm fixed-top navbar-light" aria-label="main-menu" id="menu-bar">
-                <a href="index.html" aria-label="link to home page"><img src="assets/images/logo.jpg" alt="logo" width="80px" height="80px"></a>
-                <button class="navbar-toggler" aria-label="Drop down Menu" data-toggle="collapse" data-target="#navbarmenu">
+                <a href="index.html" aria-label="link to home page"><img src="assets/images/logo.jpg" alt="logo"
+                        width="80px" height="80px"></a>
+                <button class="navbar-toggler" aria-label="Drop down Menu" data-toggle="collapse"
+                    data-target="#navbarmenu">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarmenu">
                     <ul class="navbar-nav ml-auto" id="nav-text">
                         <li class="nav-item">
-                            <a href="index.html"  aria-label="Link to HomePage" class="nav-Link"><i class="fa fa-home" aria-hidden="true"></i>Home</a>
+                            <a href="index.html" aria-label="Link to HomePage" class="nav-Link"><i class="fa fa-home"
+                                    aria-hidden="true"></i>Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="service.html" aria-label="Link to Offers page" class="nav-Link"><i class="fa fa-gift"
-                                    aria-hidden="true"></i>Products & Services</a>
+                            <a href="service.html" aria-label="Link to Offers page" class="nav-Link"><i
+                                    class="fa fa-gift" aria-hidden="true"></i>Products & Services</a>
                         </li>
                         <li class="nav-item">
-                            <a href="contact.html" aria-label="link to contact page" class="nav-Link"><i class="fa fa-bell" aria-hidden="true"></i>Contact
+                            <a href="contact.html" aria-label="link to contact page" class="nav-Link"><i
+                                    class="fa fa-bell" aria-hidden="true"></i>Contact
                                 Us</a>
                         </li>
                     </ul>
@@ -49,42 +53,49 @@
                 <p>Please Fill in the Form below...</p>
                 <div class="form-group text-center form-box">
                     <label class="text-label col-form-label" for="bcontact">Contact Name</label>
-                    <input type="text" class="form-control" id="name" placeholder="Full Name">
+                    <input type="text" class="form-control" id="bcontact"  name="bcontact" placeholder="Full Name">
                 </div>
                 <div class="form-group form-box">
                     <label class="text-label col-form-label" for="email">Email</label>
-                    <input type="email" class="form-control" id="email" placeholder="name@example.com">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com">
                 </div>
                 <div class="form-group form-box">
                     <label class="text-label col-form-label" for="number">Number</label>
-                    <input type="number" class="form-control" id="number" placeholder="Tel:">
+                    <input type="number" class="form-control" id="number" name="number" placeholder="Tel:">
                 </div>
-               <fieldset>
-                                        <legend>                                            
-                                            <h3>Prefered Contact Method</h3>                                            
-                                        </legend>
-                                        <div class="container">
-                                            <div class="pref-contact-text row text-center">
-                                                <div class="col-sm-4">
-                                                    <label for="phone-contact">Phone </label>
-                                                    <input type="radio" name="phone-contact" id="phone-contact" value="phone-contact" class="field-spacing" required>
-                                                </div>
+                <fieldset>
+                    <legend>
+                        <h3>Prefered Contact Method</h3>
+                    </legend>
+                    <div class="container">
+                        <div class="pref-contact-text row text-center">
+                            <div class="col-sm-4">
+                                <label for="phone-contact">Phone </label>
+                                <input type="radio" name="phone-contact" id="phone-contact" value="phone-contact"
+                                    class="field-spacing" required>
+                            </div>
 
-                                                <div class="col-sm-4">
-                                                    <label for="email-contact">Email </label>
-                                                    <input type="radio" name="email-contact" id="email-contact" value="email-contact" class="field-spacing">
-                                                </div>
+                            <div class="col-sm-4">
+                                <label for="email-contact">Email </label>
+                                <input type="radio" name="email-contact" id="email-contact" value="email-contact"
+                                    class="field-spacing">
+                            </div>
 
-                                                <div class="col-sm-4">
-                                                    <label for="text-contact">Text </label>
-                                                    <input type="radio" name="text-contact" id="text-contact" value="text-contact" class="field-spacing">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </fieldset>
-                <div class="form-group form-box"> <br>
-                    <label for="Text-Area">Additional Information</label>
-                    <textarea class="form-control" id="text-box" rows="3"></textarea>
+                            <div class="col-sm-4">
+                                <label for="text-contact">Text </label>
+                                <input type="radio" name="text-contact" id="text-contact" value="text-contact"
+                                    class="field-spacing">
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+                <div>
+                    <h4>Additional Information</h4>
+                </div>
+                <div>
+                    <label for="text-box-comments"></label>
+                    <textarea name="text-box-comments" id="text-box-comments" class="form-area"
+                        placeholder="type here.."></textarea>
                 </div>
                 <a href="#"><button class="btn-form" aria-label="Submit">Submit</button></a>
             </form>
@@ -101,16 +112,17 @@
             <div class="col-md-4 footer-style">
                 <h5><strong>Social Media</strong></h5>
 
-                <a href="http://www.facebook.com" aria-label="Opens new tab to Facebook" rel="noopener" target="_blank"><i class="fa fa-facebook"
-                        aria-hidden="true"></i></a>
-                <a href="http://www.instagram.com" aria-label="Opens new tab to Instagram" rel="noopener" target="_blank"><i class="fa fa-instagram"
-                        aria-hidden="true"></i></a>
-                <a href="http://www.youtube.com" aria-label="Opens new tab to Youtube" rel="noopener" target="_blank"><i class="fa fa-youtube"
-                        aria-hidden="true"></i></a>
+                <a href="http://www.facebook.com" aria-label="Opens new tab to Facebook" rel="noopener"
+                    target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="http://www.instagram.com" aria-label="Opens new tab to Instagram" rel="noopener"
+                    target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="http://www.youtube.com" aria-label="Opens new tab to Youtube" rel="noopener" target="_blank"><i
+                        class="fa fa-youtube" aria-hidden="true"></i></a>
 
             </div>
             <div class="col-md-4">
-                <a href="index.html" aria-label="Link to Homepage" target="_blank"><img src="assets/images/logo.jpg" alt="logo"></a>
+                <a href="index.html" aria-label="Link to Homepage" target="_blank"><img src="assets/images/logo.jpg"
+                        alt="logo"></a>
                 <p>Copyright © 2021 Kurly K Naturals</p>
             </div>
         </div>

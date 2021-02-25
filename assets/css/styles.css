@@ -497,6 +497,11 @@ footer a {
 }
 /*----------------------------------------- Forms*/
  
+#text-box-comments {
+          width: 60%;
+          height: 100px;
+} 
+
 form {
     background-color: var(--main-brown);
     color: var(--off-white);
