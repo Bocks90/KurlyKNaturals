@@ -48,32 +48,40 @@
                 <h2 class="text-uppercase form-header"><strong>Contact Us</strong></h2>
                 <p>Please Fill in the Form below...</p>
                 <div class="form-group text-center form-box">
-                    <label for="Name">Name</label>
+                    <label class="text-label col-form-label" for="bcontact">Contact Name</label>
                     <input type="text" class="form-control" id="name" placeholder="Full Name">
                 </div>
                 <div class="form-group form-box">
-                    <label for="Email">Email address</label>
+                    <label class="text-label col-form-label" for="email">Email</label>
                     <input type="email" class="form-control" id="email" placeholder="name@example.com">
                 </div>
                 <div class="form-group form-box">
-                    <label for="exampleFormControlSelect1">Contact Number</label>
+                    <label class="text-label col-form-label" for="number">Number</label>
                     <input type="number" class="form-control" id="number" placeholder="Tel:">
                 </div>
-                <div class="form-check form-check-inline"> Preferred Contact Method: <br>
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1"
-                        value="Phone">
-                    <label class="form-check-label" for="inlineRadio1">Phone</label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2"
-                        value="Email">
-                    <label class="form-check-label" for="inlineRadio2">Email</label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3"
-                        value="Text">
-                    <label class="form-check-label" for="inlineRadio3">Text</label>
-                </div>
+               <fieldset>
+                                        <legend>                                            
+                                            <h3>Prefered Contact Method</h3>                                            
+                                        </legend>
+                                        <div class="container">
+                                            <div class="pref-contact-text row text-center">
+                                                <div class="col-sm-4">
+                                                    <label for="phone-contact">Phone </label>
+                                                    <input type="radio" name="phone-contact" id="phone-contact" value="phone-contact" class="field-spacing" required>
+                                                </div>
+
+                                                <div class="col-sm-4">
+                                                    <label for="email-contact">Email </label>
+                                                    <input type="radio" name="email-contact" id="email-contact" value="email-contact" class="field-spacing">
+                                                </div>
+
+                                                <div class="col-sm-4">
+                                                    <label for="text-contact">Text </label>
+                                                    <input type="radio" name="text-contact" id="text-contact" value="text-contact" class="field-spacing">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </fieldset>
                 <div class="form-group form-box"> <br>
                     <label for="Text-Area">Additional Information</label>
                     <textarea class="form-control" id="text-box" rows="3"></textarea>
