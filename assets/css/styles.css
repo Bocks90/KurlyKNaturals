@@ -497,10 +497,6 @@ footer a {
 }
 /*----------------------------------------- Forms*/
  
-#text-box-comments {
-          width: 60%;
-          height: 100px;
-} 
 
 form {
     background-color: var(--main-brown);
@@ -522,6 +518,11 @@ form .form-box {
     margin-right: 8px;
     padding-left: 15%;
     padding-right: 15%;
+}
+
+#text-box-comments {
+    width:60%;
+    height:100px;
 }
 
 /*----------------------------------------- Responsive Adjustments */
