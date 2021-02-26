@@ -439,13 +439,14 @@ footer a {
     
 }
 
-#photos h4 {
+#photos h3 {
     color: var(--main-brown);
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
     text-decoration: underline ;
     padding-bottom: 16px;
+    font-size: 1.5rem;
 }
 
 
@@ -479,11 +480,12 @@ footer a {
     padding: 24px 16px;
 }
 
-.natural-products h4 {
+.natural-products h3 {
     text-align: center;
     padding: 24px;
     color: var(--black);
     text-decoration: underline;
+    font-size: 1.5rem;
 }
 
 .natural-products img {
