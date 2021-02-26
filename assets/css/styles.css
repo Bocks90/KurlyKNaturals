@@ -130,7 +130,7 @@ footer img {
     height: 5.015rem;
 }
 
-footer h5 {
+footer h4 {
    padding-top: 8px;
     font-weight: 700;
     font-size: 1.5rem;
@@ -605,6 +605,6 @@ font-size: 3rem;
   }
 
 
-.footer-style h5 {
+.footer-style h4 {
     font-size: 2rem;
 }
