@@ -142,7 +142,7 @@ footer a {
 /*----------------------------------------- Homepage Image */
 
  #home-img {
-     height: 800px;
+     height: 50rem;
      width: 100%;
      background: url(../images/COVER.jpg);
      background-size: cover;
@@ -567,7 +567,6 @@ form .form-box {
     padding: 10px;
     margin: auto;
     margin-top: 16px;
-    margin-bottom: 16px;
     display: block;
     text-align: center;
     font-family: 'Cormorant Garamond', sans-serif;
@@ -596,7 +595,7 @@ form .form-box {
 }
 
 .fa-instagram{
-    background: #f09433; 
+background: #f09433; 
 background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
 background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
 background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
