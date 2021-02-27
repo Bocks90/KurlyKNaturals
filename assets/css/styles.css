@@ -230,8 +230,8 @@ footer a {
 /*----------------------------------------- Coaching Div box */
 
 .coaching-img img {
-       width: 80%;
-       height: 20rem;
+    width: 26.25rem;
+    height: 17.5rem;
 }
 
 .offer-section h2 { 
@@ -560,11 +560,11 @@ form .form-box {
 }
 }
 
-@media screen and (max-width:543px) {
+@media screen and (max-width:550px) {
 
 .offer-section .offer-box {
     width: 95%;
-    height: 550px;
+    height: 400px;
     padding: 10px;
     margin: auto;
     margin-top: 16px;
@@ -582,6 +582,13 @@ form .form-box {
 #cover-text {
     left: 16px;
     width: 90%; 
+}
+}
+
+@media screen and (max-width: 550px){
+    .coaching-img img {
+    width: 17.5rem;
+    height: 11.68rem;
 }
 }
 
