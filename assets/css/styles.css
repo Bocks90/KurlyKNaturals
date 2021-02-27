@@ -195,6 +195,7 @@ footer a {
 
  #cover-text h1 { 
      text-transform: uppercase;
+     text-decoration: underline;
 } 
 
  #cover-text {
@@ -342,8 +343,8 @@ footer a {
 }
 
 .carousel .img-box img {
-    width: 100px;
-    height: 100px;
+    width: 6.25rem;
+    height: 4.167rem;
     display: block;
     border-radius: 50%;
 }
