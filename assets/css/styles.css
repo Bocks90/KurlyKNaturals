@@ -288,7 +288,7 @@ footer a {
 }
 
 .benefits h2 {
-    margin-bottom: 50px;
+    margin-bottom: 50git px;
     position: relative;
     top: 32px;
     font-weight: 900;
@@ -514,6 +514,8 @@ footer a {
 .natural-products img {
     border-radius: 50%;
     padding: 16px;
+    width: 199px;
+    height: 243px;
 }
 
 .natural-products p {
