@@ -440,7 +440,8 @@ footer a {
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
-    
+    border: 6px groove var(--main-brown);
+    margin-bottom: 24px;
 }
 
 #photos h3 {
