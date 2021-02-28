@@ -490,11 +490,20 @@ footer a {
     margin-top: 16px
 }
 
+.natural-products {
+    width: 100%;
+    position: relative;
+}
+
+.natural-products h3 i {
+    display: block;
+}
+
 .natural-products h3 {
     text-align: center;
     padding: 24px;
     color: var(--black);
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: bold;
 }
 
@@ -505,7 +514,7 @@ footer a {
 
 .natural-products p {
     color: var(--black);
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 /*----------------------------------------- Forms*/
  
