@@ -129,8 +129,11 @@ footer img {
     height: 72px;
 }
 
+.footer-box {
+    padding: 16px 8px
+}
+
 footer h4 {
-   padding-top: 8px;
     font-weight: 700;
     font-size: 1.5rem;
 }
