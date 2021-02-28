@@ -245,6 +245,7 @@ footer a {
     padding-top: 24px;
     padding-bottom: 24px;
     color: var(--off-white);
+    border: 6px groove var(--off-white);
 }
 
 .offer-box {
@@ -287,12 +288,14 @@ footer a {
 }
 
 .benefits h2 {
-    margin-bottom: 72px;
+    margin-bottom: 50px;
     position: relative;
     top: 32px;
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
+    border: 6px groove var(--off-white);
+    padding: 16px;
 }
 /*---------------------------------------- Testimonials */
 
