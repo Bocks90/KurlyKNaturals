@@ -346,8 +346,8 @@ footer a {
 }
 
 .carousel .img-box img {
-    width: 6.25rem;
-    height: 4.167rem;
+    width: 100%;
+    height: 100%;
     display: block;
     border-radius: 50%;
 }
@@ -474,6 +474,8 @@ footer a {
 .contact-btn a:hover {
     color: gold;
 }
+
+
 /*----------------------------------------- Products & Service*/
 
 .products h2 {
