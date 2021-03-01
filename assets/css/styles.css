@@ -239,13 +239,20 @@ footer a {
     height: 17.5rem;
 }
 
-.offer-section h2 { 
-    margin: 0px;
-    text-align: center;
+.offer-section h2 {
+    font-size: 54px;
+    margin-top: 32px;
+    margin-bottom: 24px;
+    display: inline-block;
     padding-top: 24px;
     padding-bottom: 24px;
     color: var(--off-white);
-    border: 6px groove var(--off-white);
+    text-decoration: underline;
+    
+}
+
+.bg-offers {
+    text-align: center;
 }
 
 .offer-box {
@@ -289,12 +296,12 @@ footer a {
 
 .benefits h2 {
     margin-bottom: 50git px;
-    position: relative;
-    top: 32px;
-    font-weight: 900;
+    font-size: 54px;
+    margin-top: 32px;
+    margin-bottom: 24px;
     text-transform: uppercase;
     text-align: center;
-    border: 6px groove var(--off-white);
+    text-decoration: underline;
     padding: 16px;
 }
 /*---------------------------------------- Testimonials */
