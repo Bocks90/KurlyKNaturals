@@ -92,10 +92,13 @@ nav a:hover {
 }
 
 li {
-     margin: 0 auto;
-     padding: 8px;
-     font-size: 1.25rem;
-     font-weight: 700;  
+    margin: 0 auto;
+    padding: 8px;
+    font-weight: 700;
+    font-size: 1.75rem;
+    margin-bottom: 0;
+    text-align: center;
+    color: var(--off-white); 
 }
 
 section {
