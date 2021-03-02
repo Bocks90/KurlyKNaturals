@@ -1,4 +1,4 @@
-#About Kurly K Naturals
+# About Kurly K Naturals 
 
 Kurly K Naturals is a business website I created for my MS1 project with Code Institute.
 
@@ -6,3 +6,22 @@ The goal of Kurly K Naturals is to  help people to maintain and grow strong, hea
 
 The purpose for the website is to give the users more information about the products and services we offer at Kurly K Naturals. It will also allow us to showcase our results and the testimonials from previous clients. It will be important for Kurly K to have a contact form to enable people to get in touch. Whilst we want to also have links to social media to increase the footfall on these platforms. As the business grows there will be potential to expand this website in the future.
 
+# User Experience
+
+## Strategy
+
+### User Stories
+
+Reasons why somebody may visit the website:
+* A User looking for more knowledge on how to maintain their Healthy Hair.
+* A User looking for a Coach
+* A User that is interested in purchasing organic hand made hair products from a trustful supplier.
+* A User looking for Online Videos on Hair Growth
+* Previous customer looking for a new product or service
+
+Reasons for a website
+* Allows people to get a clearer understanding of the business.
+* Increase potential customers
+* Allows a method for New and Existing methods to contact the business.
+* Potential to grow the Social Media for the business.
+* Builds trust by showcasing the business
