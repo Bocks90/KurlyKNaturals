@@ -75,6 +75,10 @@ p {
     font-size: 1.25rem;
 }
 
+.offer-section .offer-box p {
+        color: var(--black);
+}
+
 .nav-item a {
     font-family: 'Cormorant Garamond', sans-serif;
     color: var(--off-white); 
@@ -603,11 +607,10 @@ form .form-box {
 }
 }
 
-@media screen and (max-width:550px) {
-
+@media screen and (max-width: 360px){
 .offer-section .offer-box {
     width: 95%;
-    height: 400px;
+    height: 550px;
     padding: 10px;
     margin: auto;
     margin-top: 16px;
@@ -617,6 +620,24 @@ form .form-box {
     font-weight: bold;
     font-size: 24px;
     font-weight: 600;
+}
+}
+
+@media screen and (max-width:550px) {
+
+.offer-section .offer-box {
+    width: 95%;
+    height: 450px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 16px;
+    display: block;
+    text-align: center;
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    font-weight: 600;
+    overflow: hidden;
 }
 }
 
