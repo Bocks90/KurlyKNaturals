@@ -501,11 +501,13 @@ font-size: 3rem;
 }
 
 .contact-btn {
+    padding: 4px;
     color: var(--off-white);
     background-color: var(--md-brown);
     position: absolute;
-    right: 30%;
+    right: 40%;
     font-size: 20px;
+    font-weight: bold;
 }
 
 .contact-btn:hover {
