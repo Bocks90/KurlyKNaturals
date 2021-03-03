@@ -505,13 +505,6 @@ font-size: 3rem;
     background-color: var(--md-brown);
     position: absolute;
     right: 30%;
-}
-
-.contact-btn {
-    color: var(--off-white);
-    background-color: var(--md-brown);
-    position: absolute;
-    right: 30%;
     font-size: 20px;
 }
 
