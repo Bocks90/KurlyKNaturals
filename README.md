@@ -106,3 +106,45 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 ![Service Wireframe](readmefiles/servicewireframe.png)
 ## Form WireFrame
 ![Testimonial WireFrame](readmefiles/formwireframe.jpg)
+## Mockup
+
+# Features
+## Features Across the Site
+
+### Header
+The Navigation bar can be found  on the Header Section on every page. The links have the hoover feature which turns the writing Gold when you hover your mouse over the text. They will navigate you to the page you select. I also included a Logo image link which sits on the left side of the header. This link simply redirects you to the homepage. The header needed to be responsive so I used Bootstrap  4 to build the grid and added the class “navbar-expand-sm” to enable the nav bar to collapse on a smaller screen to improve usability. The main color brown has been applied to the background of the header.
+### Footer
+The footer was built in 3 separate sections which are “Contact details”, “Social Media” and “logo”. I used bootstrap to arrange the layout so that the three sections will stack on top of each other when using a smaller device. The contact details simply has our Telephone and Email address to contact the business on. The Social Media section has direct links to the social media platforms (Facebook, Instagram and Youtube). Once you click on the icons it will navigate you straight to the social media pages. The icons are the logo which was taken from Font Awesome. They have a hover feature that changes color when you hover the cursor over it. The footer uses the main brown theme as a background with off-white text.
+### Responsiveness
+The website has been built to be responsive for all devices. To do this i used the media query technique in CSS to adjust the service section to make it responsive with smaller devices. I also used Bootstrap with some of the grids too.
+### Accessibility
+Links are consistent and they all work fine. I have set a suitable contrast to match the background in each section to make the site viewable to a range of readers. Social media links work. I have included alt and aria-label attributes to all of my images and nav links to make the site easier for visual impairments. Whilst font has been set to rem so that the font size increases automatically for somebody using large font settings.
+### Meta data
+### Homepage Features
+* The Hero Image has a Cover box over it which says the Company name (Kurly K Naturals) with the slogan "Teaching Others How To Grow Long and Healthy Hair". The box has a lower opacity to make it visually smoother. 
+* The Offer section has a paragraph that talks about what the business offers. It also has two images one represents the products and the other services. When viewed on a smaller screen the images stack on top of each other.
+* The Benefits section has an ordered list with bullet points that states the benefits of the business.
+* The Testimonial is a  carousel styled layout that slides from one testimonial to the other. This was built using Bootstrap where I then changed the color to suit the theme of the website.
+### Service Features
+* The Hero Image has the same features as the homepage image. The only difference was the image used.
+* The Service  section has two paragraphs aligned side by side with each other that explain the services we offer. The paragraphs fall on top of each other when viewed on smaller screens. This section also has two images side by side that respond the same as the text. Below this is a contact us button that directs you to the Contact us page.
+* The Products section consists of 3 divs placed side by side with another.. Inside each div you have a header with the products name with the image below, followed be a description of the product. On smaller devices the div sections fall on top of each other.
+### Contact Features
+* The form was built to appear differently depending on the screen sizes to improve the visual appearance. ( This can be seen in the Contact us  section)
+* The form has a field to enter your Name using text which was done using the input=’”text”
+* The email section has been set to accept email addresses only within this box.
+* The number section also requires a number before you are able to submit.
+* The Radio button feature is used to select the contact type. This was used as i felt this is a suitable method to get the information required form the user.
+* The Text Area is there to allow the user to give me additional information on their reasons for getting in contact.
+* The Submit Button included at the bottom of the form.
+### Future Features
+* Once the business grows there will be a need to include a shopping basket with a checkout section to allow the business to process orders on the website.
+* Allow customers to create user accounts and have their own profile which they can use to track their progress and speak with other customers on their journey.
+* Add tutorial videos to the website to allow users to view some content whilst browsing our website.
+* A map with the business location on the contact us page.
+
+
+
+
+
+
