@@ -221,7 +221,37 @@ I sent my project to my fellow students in the slack community and a few friends
 * The testimonial section shows feedback from previous clients, also there are images that show the progress of our coaching service on the offers page.
 ### A user who has information but wants to speak to somebody
 * The User can find our information in the footer and can also use the contact us section to speak to somebody.
+# Bugs
 
+# Deployment
+This project was developed on Gitpod Workspaces Workspaces IDE committed and pushed to my Github Repository using Gitpod Command Line interface.
+## Adding and Committing Files
+To add files to the repository I used the git add command. I then used the git commit command to highlight changes being made to the code.  When I was happy with this I then used the Git Push command  to push the code to my Github repository.  
+## Deployment
+To make this website accessible i used the following steps to deploy the website
+1. Logged into my github account
+2. Clicked the "Settings" button on the menu page
+3. Scroll down to the "GitHub Pages" Section.
+4. Click  the dropdown menu  called "None" and select "Master Branch".
+5. Click save.
+6. The page will refresh and the website is now deployed.
+7. To find the link to the website go to the Github Pages Section and the link is there with the published website.
+## Forking
+Forking the GitHub Repository will copy it in your own repositories in GitHub, This allows us to view or make changes without the changes affecting the original. 
+Making a local clone:
+* Log into GitHub 
+* Navigate to the GitHub Repository.
+* Click on the fork button at the top of the page.
+* You should now have a new copy of the repository in Github.
+## Cloning
+Making a Local Clone  to create a copy of your repository from Github to store locally on your device  is known as “cloning a repository”. To clone a repository you need to follow these steps:
+* Log into GitHub and locate the gitpod repository
+* Select the button that says "Clone or download". Under the repository name.
+* To clone the repository using HTTPS simply copy the link underneath "Clone with HTTPS".
+* Open Gitbash
+* Change the current working directory to the location where you want the cloned directory to be.
+* Type “git clone”, and then paste the URL you copied earlier.
+* Press enter to create your local clone.
 
 
 
