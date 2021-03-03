@@ -324,7 +324,7 @@ font-size: 3rem;
 }
 
 .benefits h2 {
-    margin-bottom: 50git px;
+    margin-bottom: 50px;
     font-size: 54px;
     margin-top: 32px;
     margin-bottom: 24px;
@@ -552,8 +552,6 @@ font-size: 3rem;
     font-size: 1.2rem;
 }
 /*----------------------------------------- Forms*/
- 
-
 form {
     background-color: var(--main-brown);
     color: var(--off-white);

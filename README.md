@@ -177,6 +177,19 @@ Links are consistent and they all work fine. I have set a suitable contrast to m
 * Balsamiq - Creating Wireframes
 * Font Awesome - For icons on the website.
 * IMG 2 GO - Resize images to make the browser run smoothly.
+# Testing
+## Demo Testing
+The First thing I tested were the features that appear on the browser by demo testing the website for errors.  
+* The text links in the navbar all work and direct you to the correct pages.
+* The Contact Us button link directs the user straight to the contact form.
+* Social Media links all work
+
+## W3C
+### HTML Validator
+
+
+
+W3C markup validator was used to check the website for semantic and syntax errors. The browser passed the test for both HTML and CSS validating my code.
 
 
 
