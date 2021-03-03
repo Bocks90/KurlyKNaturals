@@ -191,10 +191,9 @@ The First thing I tested were the features that appear on the browser by demo te
 ### CSS Validator
 ![CSS VALIDATOR](readmefiles/CSSvalidator.gif)
 
-
-
 W3C markup validator was used to check the website for semantic and syntax errors. The browser passed the test for both HTML and CSS validating my code.
-
+## Performance Testing
+I tested my results on Lighthouse and these were my results the first time:
 
 
 
