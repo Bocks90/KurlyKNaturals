@@ -142,6 +142,19 @@ Links are consistent and they all work fine. I have set a suitable contrast to m
 * Allow customers to create user accounts and have their own profile which they can use to track their progress and speak with other customers on their journey.
 * Add tutorial videos to the website to allow users to view some content whilst browsing our website.
 * A map with the business location on the contact us page.
+# TECHNOLOGY USED
+* HTML 5
+* CSS 3
+* Github - To Store the repository 
+* Gitpod - Integrated Development Environment
+* Git - For Version control
+## Design
+* Bootstrap - this was used for responsive designs on grids and a carousel on the website.
+* Google Fonts - Used to select my font for the website.
+* Balsamiq - Creating Wireframes
+* Font Awesome - For icons on the website.
+* IMG 2 GO - Resize images to make the browser run smoothly.
+
 
 
 
