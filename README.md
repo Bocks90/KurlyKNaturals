@@ -68,11 +68,11 @@ I have used the following colors:
 
 The best thing about using the variable method is that if a change in color or theme needs to occur i can do this by simply changing a root color. The only other Color i used was Gold which was used as a hover feature for my buttons in the header section.
  
-I used https://www.webfx.com/web-design/color-picker/ to help me identify the main color that I wanted to use. Initially i decided to go with a bronze/brown theme. One this was decided I then used https://webaim.org/resources/contrastchecker/ to identify suitable matching colors by contrast for my main color to ensure the website provided quality visibility.
+I used [Web Fx](https://www.webfx.com/web-design/color-picker/) to help me identify the main color that I wanted to use. Initially i decided to go with a bronze/brown theme. One this was decided I then used [WebAim](https://webaim.org/resources/contrastchecker/) to identify suitable matching colors by contrast for my main color to ensure the website provided quality visibility.
 
 ## Typography
 
-I have used https://fonts.google.com/ for my fonts. I chose Cororande Grande  as my main font throughout the website and used sans-serif as my back up font. This is a unique style that is easy to read and looks very stylish at a range of sizes. I believe that the slick look suits the nature of the business which makes it a great match..
+I used [Google Fonts](https://fonts.google.com/) for my fonts. I chose Cororande Grande  as my main font throughout the website and used sans-serif as my back up font. This is a unique style that is easy to read and looks very stylish at a range of sizes. I believe that the slick look suits the nature of the business which makes it a great match..
 
 I used different font weights for the headers and adjusted the size to make it visually clear for the user.
 
@@ -93,16 +93,15 @@ I also included some original photos from the actual business. These images are 
 I used a gold pattern background-image for the "Contact us" page. I felt like the gold-background represents a positive and exciting theme and putting this in the contact page was best suited for this.
  (Add Image Links)
 
+[Background Image](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/goldbackground1.jpg)
+
+[Logo Image](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/logo.jpg)
+
 [Hero Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/COVER.jpg)
 [Hero Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/servicecoverimg.jpg) 
 
-[Logo Image](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/logo.jpg)
 [Offer-Box Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/coaching1.jpg)
 [Offer-Box Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/productkurlyk1.jpg)
-
-[Testimonial 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial1.jpg)
-[Testimonial 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial2.jpg)
-[Testimonial 3](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial3.jpg)
 
 [Service Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/IMG-20210206-WA0007.jpg)
 [Service Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/IMG-20210206-WA0019.jpg)
@@ -111,6 +110,10 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 [Products Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/bodybutter.jpg)
 [Products Image 3](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/milk_honey.jpg)
 
+
+[Testimonial 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial1.jpg)
+[Testimonial 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial2.jpg)
+[Testimonial 3](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial3.jpg)
 
  # Skeleton
 
