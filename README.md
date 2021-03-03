@@ -64,7 +64,7 @@ These colours feature several times throughout the website which is why I have s
 
 I have used the following colors:
 
-(Image)
+![Root Colors](readmefiles/rootcolors.png) 
 
 The best thing about using the variable method is that if a change in color or theme needs to occur i can do this by simply changing a root color. The only other Color i used was Gold which was used as a hover feature for my buttons in the header section.
  
