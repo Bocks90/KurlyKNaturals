@@ -119,13 +119,8 @@ footer {
     background-color: var(--main-brown);
     color: var(--off-white);
     font-family: 'Cormorant Garamond', sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     text-align: center;
-}
-
-footer ul {
-    font-size: 2.25rem;
-    padding-left: 0; 
 }
 
 footer a {
@@ -150,6 +145,33 @@ footer h4 {
 footer a {
     text-align: center;
     font-size: 2.5rem;
+    padding: 12px;
+}
+
+
+.fa-youtube {
+    color:#c4302b;
+    font-size: 3rem;
+}
+
+.fa-facebook {
+    color: #4267B2;
+    font-size: 3rem;
+}
+
+.fa-instagram{
+color: var(--off-white);
+background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+font-size: 3rem;
+  }
+
+
+.footer-style h4 {
+    font-size: 2rem;
 }
 /*----------------------------------------- Homepage Image */
 
@@ -635,28 +657,4 @@ form .form-box {
     width: 17.5rem;
     height: 11.68rem;
 }
-}
-
-.fa-youtube {
-    color:#c4302b;
-    font-size: 3rem;
-}
-
-.fa-facebook {
-    color: #4267B2;
-    font-size: 3rem;
-}
-
-.fa-instagram{
-background: #f09433; 
-background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-font-size: 3rem;
-  }
-
-
-.footer-style h4 {
-    font-size: 2rem;
 }
