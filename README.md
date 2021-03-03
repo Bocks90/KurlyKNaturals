@@ -193,8 +193,34 @@ The First thing I tested were the features that appear on the browser by demo te
 
 W3C markup validator was used to check the website for semantic and syntax errors. The browser passed the test for both HTML and CSS validating my code.
 ## Performance Testing
-I tested my results on Lighthouse and these were my results the first time:
+### Lighthouse 
+I tested my results on /Lighthouse and these were my results the first time:
 
+![initital Lighthouse test(homepage)](readmefiles/homepagelighthouse.png) 
+![initital Lighthouse test(offers)](readmefiles/offerslighthouse.png)
+![initital Lighthouse test(contact)](readmefiles/contactlighthouse.png)
+Accessibility was a big issue that I had with my performance results. To boost this I added aria-labels to all of my links. To boost my performance results I compressed my image sizes to increase the load time. Whilst adding metadata to improve my SEO score which gave me the results below.
+### Browser Compatibility
+The website has been tested on a range of browsers (Google Chrome, Firefox, Safari, Microsoft Edge and brave). The website is working and functioning well on all browsers. To do this I demo tested the website on these browsers as stated above in te demo testing section
+### OS Compatibility
+Tested the website on Windows 10, Android and iOS. iThre aim was to view the responsive changes on different devices.
+### Usability Testing
+I sent my project to my fellow students in the slack community and a few friends that work in the industry with experience to double check that all of my links are working and that the content is responsive.
+## Testing User Stories
+### A User looking for more information on what the business offers.
+* The Homepage talks about the products and services that the business offer briefly alongside the benefits. The offer page talks about the this in more depth to provide more information.
+ ### A user looking for a Hair Coach
+* The user will be able to see that they can find a hair coach from the moment they click on the website and view our slogan on the Hero Image. There are a range of links that will direct the user to the contact us page.
+### A User that is interested in organic hand made hair products from a trustful supplier.
+* You can view the homemade hair products that the business offers. All products have a description which talks about the benefits of the product. Users can enquire about the products using the contact us form.
+### A User looking for Online Videos on Hair Growth
+* The Service section under the online tutorial mentions that you can access our tutorial videos on Youtube and Instagram. The link is on every page on the footer which will direct you to  the social media pages.
+### Previous Customer looking for a new product or service
+* A customer may use the products and want to try a service to compliment the products then they could do this, as we have a variety of things to offer.
+### A User who wants to find out if the business is reliable
+* The testimonial section shows feedback from previous clients, also there are images that show the progress of our coaching service on the offers page.
+### A user who has information but wants to speak to somebody
+* The User can find our information in the footer and can also use the contact us section to speak to somebody.
 
 
 
