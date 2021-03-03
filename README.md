@@ -93,6 +93,25 @@ I also included some original photos from the actual business. These images are 
 I used a gold pattern background-image for the "Contact us" page. I felt like the gold-background represents a positive and exciting theme and putting this in the contact page was best suited for this.
  (Add Image Links)
 
+[Hero Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/COVER.jpg)
+[Hero Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/servicecoverimg.jpg) 
+
+[Logo Image](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/logo.jpg)
+[Offer-Box Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/coaching1.jpg)
+[Offer-Box Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/productkurlyk1.jpg)
+
+[Testimonial 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial1.jpg)
+[Testimonial 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial2.jpg)
+[Testimonial 3](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/testimonial3.jpg)
+
+[Service Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/IMG-20210206-WA0007.jpg)
+[Service Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/IMG-20210206-WA0019.jpg)
+
+[Products Image 1](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/arymedicbottl.jpg)
+[Products Image 2](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/bodybutter.jpg)
+[Products Image 3](https://github.com/Bocks90/KurlyKNaturals/blob/master/assets/images/milk_honey.jpg)
+
+
  # Skeleton
 
  ## Layout
@@ -106,6 +125,7 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 ![Service Wireframe](readmefiles/servicewireframe.png)
 ## Form WireFrame
 ![Testimonial WireFrame](readmefiles/formwireframe.jpg)
+
 ## Mockup
 
 # Features
