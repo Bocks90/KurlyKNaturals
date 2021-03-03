@@ -183,9 +183,13 @@ The First thing I tested were the features that appear on the browser by demo te
 * The text links in the navbar all work and direct you to the correct pages.
 * The Contact Us button link directs the user straight to the contact form.
 * Social Media links all work
-
 ## W3C
 ### HTML Validator
+![HTML VALIDATOR 1](readmefiles/HTMLVALIDATOR1.png) 
+![HTML VALIDATOR 2](readmefiles/HTMLVALIDATOR2.png)
+![HTML VALIDATOR 3](readmefiles/HTMLVALIDATOR3.png)
+### CSS Validator
+![CSS VALIDATOR](readmefiles/CSSvalidator.gif)
 
 
 
