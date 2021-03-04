@@ -1,4 +1,11 @@
-# About Kurly K Naturals 
+# Kurly K Naturals
+![Homepage Mockup](readmefiles/homepagemockup.png)
+
+[Link To Live Website](https://bocks90.github.io/KurlyKNaturals/)
+
+[Repository](https://github.com/Bocks90/KurlyKNaturals)
+
+# About 
 
 Kurly K Naturals is a business website I created for my MS1 project with Code Institute.
 
