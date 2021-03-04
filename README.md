@@ -199,7 +199,13 @@ I tested my results on /Lighthouse and these were my results the first time:
 ![initital Lighthouse test(homepage)](readmefiles/homepagelighthouse.png) 
 ![initital Lighthouse test(offers)](readmefiles/offerslighthouse.png)
 ![initital Lighthouse test(contact)](readmefiles/contactlighthouse.png)
+
 Accessibility was a big issue that I had with my performance results. To boost this I added aria-labels to all of my links. To boost my performance results I compressed my image sizes to increase the load time. Whilst adding metadata to improve my SEO score which gave me the results below.
+
+![Lighthouse Results](readmefiles/lighthousehome.png)
+![Lighthouse Results](readmefiles/lighthouseoffers.png)
+![Lighthouse Results](readmefiles/lighthousecontact.png)
+
 ### Browser Compatibility
 The website has been tested on a range of browsers (Google Chrome, Firefox, Safari, Microsoft Edge and brave). The website is working and functioning well on all browsers. To do this I demo tested the website on these browsers as stated above in te demo testing section
 ### OS Compatibility
