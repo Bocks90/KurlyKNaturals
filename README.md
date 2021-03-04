@@ -131,6 +131,10 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 
 ## Mockup
 
+![Homepage Mockup](readmefiles/homepagemockup.png)
+![Offers Mockup](readmefiles/offersmockup.png)
+![Contact Mockup](readmefiles/contactmockup.png)
+
 # Features
 ## Features Across the Site
 
@@ -270,6 +274,8 @@ Making a Local Clone  to create a copy of your repository from Github to store l
 * Type “git clone”, and then paste the URL you copied earlier.
 * Press enter to create your local clone.
 # References
+[Code Institue Sample Readme](https://github.com/Code-Institute-Solutions/SampleREADME) - Helped Structure my Readme
+
 [Web Development Tutorials](https://youtu.be/UE-tiUh3W3U) - Used this Bootstrap tuturial to help build my Testimonial Carousel
 
 [PngTree](https://pngtree.com/back/down?id=MTIwNTY2NA==&type=1&time=1613498482&token=OWRkOGM4N2QzZDJmZGYyZDMxZjhjNDVmN2MxNmJjNDg=) - Gold Background Image
@@ -298,4 +304,11 @@ Making a Local Clone  to create a copy of your repository from Github to store l
 
 
 ## Code
+Bootstrap was used to build my tesitmonials and grids on the website. I used the bootstrap code from [Web Development Tutorials](https://youtu.be/UE-tiUh3W3U) to do this.
 
+![Testimonial Carousel Code](readmefiles/carouselcode.png)
+# Acknowledgements
+* My Code Institute Whats App Group for giving me feedback and regular support
+* Slack community
+* Code Institute
+  
