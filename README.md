@@ -228,6 +228,17 @@ I sent my project to my fellow students in the slack community and a few friends
 ### A user who has information but wants to speak to somebody
 * The User can find our information in the footer and can also use the contact us section to speak to somebody.
 # Bugs
+The scroller in my Carousel for Testimonials wasn’t working. When i would click on it a 404 error message would appear in a separate tab. I realised that there was a typos with my id. Once i changed the coding the scroller worked perfectly fine.
+
+I had an issue with my products section where I was unable to center the text using the text-align element on CSS. I realised the issue was that I built the section using bootstrap which had an impact on my css code. I used the Text-center attribute in HTML for images which fixed the issue.
+
+I received a 404 error message once I deployed my  website. This stopped my images from showing on my website when it was deployed for some of my images. I realised that the issue was that i put ../ on the file path which isn't being picked up by the browser. One i changed the relative file path to  assets/images/coaching1.jpg and used this method for the other broken pictures this fixed the issue.
+
+[404 error message](https://github.com/Bocks90/KurlyKNaturals/blob/master/readmefiles/404error.png)
+
+An error occurred because i had nested an element within a button element which showed as an error when i attempted to do my HTML validator..  This was a mistake that was easy to fix once i understood that this rule couldn't happen. I removed the button element and changed the CSS to affect the (a) element to keep the link stylish . Once i changed this my HTML validator passed the test.
+
+[HTML VALIDATOR](https://github.com/Bocks90/KurlyKNaturals/blob/master/readmefiles/htmlerror.png)
 
 # Deployment
 This project was developed on Gitpod Workspaces Workspaces IDE committed and pushed to my Github Repository using Gitpod Command Line interface.
@@ -258,7 +269,33 @@ Making a Local Clone  to create a copy of your repository from Github to store l
 * Change the current working directory to the location where you want the cloned directory to be.
 * Type “git clone”, and then paste the URL you copied earlier.
 * Press enter to create your local clone.
+# References
+[Web Development Tutorials](https://youtu.be/UE-tiUh3W3U) - Used this Bootstrap tuturial to help build my Testimonial Carousel
+
+[PngTree](https://pngtree.com/back/down?id=MTIwNTY2NA==&type=1&time=1613498482&token=OWRkOGM4N2QzZDJmZGYyZDMxZjhjNDVmN2MxNmJjNDg=) - Gold Background Image
+
+[Shutterstock](https://www.shutterstock.com/home) - Purchased my Hero and Testimonials Images from this website.
+
+[Computer Hope](https://www.computerhope.com/issues/ch001662.htm) - All images are owned or bought from Shutterstock
+
+[W3C Schools](https://www.w3schools.com/) - Helped me with a range of codes and solving issues.
+
+[Balsamiq wireframes](https://balsamiq.cloud/spaces) - Used this website to build my wireframes.
+
+[Red Route](https://red-route.org/code/image-resizing-calculator) - Resize my images whilst keeping the same proportions
+
+[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)- Used to build Carousel and Responsive grids.
+
+[HTML Validator](https://validator.w3.org/) - Tested my HTML code
+
+[CSS Validator](https://jigsaw.w3.org/css-validator/) - Tested my CSS code
+
+[Font Awesome](https://fontawesome.com/) - Cdn for icons used on website
+
+[Google Fonts](https://fonts.google.com/) - Cdn for fonts used on website
+
+[Am I Responsive](http://ami.responsivedesign.is/#) - Checks responsiveness on different viewport devices
 
 
-
+## Code
 
