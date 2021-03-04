@@ -20,11 +20,15 @@ The purpose for the website is to give the users more information about the prod
 ## User Stories
 
 Reasons why somebody may visit the website:
-* A User looking for more knowledge on how to maintain their Healthy Hair.
-* A User looking for a Coach
-* A User that is interested in purchasing organic hand made hair products from a trustful supplier.
+
+* A user who has information but wants to speak to somebody
+* A User who wants to find out if the business is reliable
 * A User looking for Online Videos on Hair Growth
-* Previous customer looking for a new product or service
+* A User that is interested in organic hand made hair products from a trustful supplier.
+* A user looking for a Hair Coach
+* A User looking for more information on what the business offers.
+* Previous Customer looking for a new product or service
+
 
 Reasons for a website
 * Allows people to get a clearer understanding of the business.
@@ -154,6 +158,7 @@ The website has been built to be responsive for all devices. To do this i used t
 ### Accessibility
 Links are consistent and they all work fine. I have set a suitable contrast to match the background in each section to make the site viewable to a range of readers. Social media links work. I have included alt and aria-label attributes to all of my images and nav links to make the site easier for visual impairments. Whilst font has been set to rem so that the font size increases automatically for somebody using large font settings.
 ### Meta data
+* I have included Meta data to boost SEO results and have given every page on the website its own title so that you can notice what page your on form looking at the tab.
 ### Homepage Features
 * The Hero Image has a Cover box over it which says the Company name (Kurly K Naturals) with the slogan "Teaching Others How To Grow Long and Healthy Hair". The box has a lower opacity to make it visually smoother. 
 * The Offer section has a paragraph that talks about what the business offers. It also has two images one represents the products and the other services. When viewed on a smaller screen the images stack on top of each other.
