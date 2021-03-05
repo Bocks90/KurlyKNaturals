@@ -329,6 +329,7 @@ font-size: 3rem;
     font-weight: bold;
     display: inline-block;
     text-transform: uppercase;
+    margin-bottom: 16px;
     }
 
     .offers-btn:hover {
