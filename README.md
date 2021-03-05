@@ -256,6 +256,8 @@ An error occurred because i had nested an element within a button element which 
 
 [HTML VALIDATOR](https://github.com/Bocks90/KurlyKNaturals/blob/master/readmefiles/htmlerror.png)
 
+In the Products section which was built using Bootstrap, I was having issues centering the third div on a medium screen device. To fix the issue i changed the code div to occupy the full column on a medium screen. 
+
 # Deployment
 This project was developed on Gitpod Workspaces Workspaces IDE committed and pushed to my Github Repository using Gitpod Command Line interface.
 ## Adding and Committing Files

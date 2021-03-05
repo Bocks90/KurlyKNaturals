@@ -520,13 +520,15 @@ font-size: 3rem;
 }
 
 .contact-btn {
-    padding: 8px;
+    padding: 4px;
+    border-radius: 8px;
     color: var(--off-white);
     background-color: var(--md-brown);
-    position: inherit;
-    border-radius: 8px;
-    font-size: 28px;
+    position: absolute;
+    right: 40%;
+    font-size: 20px;
     font-weight: bold;
+    text-transform: uppercase;
     }
 
 .contact-btn:hover {
