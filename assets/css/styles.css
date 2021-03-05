@@ -52,8 +52,8 @@ form {
     font-family: 'Cormorant Garamond', sans-serif;
     text-transform: capitalize;
     text-align: center;
-    list-style-type: disc;
-    list-style-position: initial;
+    list-style-type: circle;
+    list-style-position: inside;
     
 }
 
@@ -317,6 +317,24 @@ font-size: 3rem;
     text-align: center;
     color: var(--off-white);
 }
+
+.offers-btn  {
+    padding: 8px;
+    margin-top: 16px;
+    color: var(--main-brown);
+    background-color: var(--off-white);
+    position: inherit;
+    border-radius: 8px;
+    font-size: 28px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    }
+
+    .offers-btn:hover {
+        color: gold;
+    }
+
 /*----------------------------------------- benefits  section */
 .benefits {
     text-align: center;
@@ -328,7 +346,7 @@ font-size: 3rem;
     font-size: 54px;
     margin-top: 32px;
     margin-bottom: 24px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     text-decoration: underline;
     padding: 16px;
@@ -501,14 +519,14 @@ font-size: 3rem;
 }
 
 .contact-btn {
-    padding: 4px;
+    padding: 8px;
     color: var(--off-white);
     background-color: var(--md-brown);
-    position: absolute;
-    right: 40%;
-    font-size: 20px;
+    position: inherit;
+    border-radius: 8px;
+    font-size: 28px;
     font-weight: bold;
-}
+    }
 
 .contact-btn:hover {
     color: gold;
