@@ -284,7 +284,11 @@ Making a Local Clone  to create a copy of your repository from Github to store l
 * Open Gitbash
 * Change the current working directory to the location where you want the cloned directory to be.
 * Type “git clone”, and then paste the URL you copied earlier.
+
+![Git Clone image1](readmefiles/gitclone.png)
 * Press enter to create your local clone.
+
+![Git Clone image2](readmefiles/gitclone2.png)
 # References
 [Code Institue Sample Readme](https://github.com/Code-Institute-Solutions/SampleREADME) - Helped Structure my Readme
 

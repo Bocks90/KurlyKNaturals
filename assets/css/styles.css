@@ -50,10 +50,10 @@ form {
 
 .benefit-list {
     font-family: 'Cormorant Garamond', sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
-    list-style-type: circle;
-    list-style-position: inside;
+    list-style-type: disc;
+    list-style-position: initial;
     
 }
 
