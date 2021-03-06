@@ -163,13 +163,14 @@ Links are consistent and they all work fine. I have set a suitable contrast to m
 * The Hero Image has a Cover box over it which says the Company name (Kurly K Naturals) with the slogan "Teaching Others How To Grow Long and Healthy Hair". The box has a lower opacity to make it visually smoother. 
 * The Offer section has a paragraph that talks about what the business offers. It also has two images one represents the products and the other services. When viewed on a smaller screen the images stack on top of each other.
 * The Benefits section has an ordered list with bullet points that states the benefits of the business.
+* The homepage has two extra links in the body "more infor" redirects you to offers page and "Get in Touch" will redirect you to contact page. 
 * The Testimonial is a  carousel styled layout that slides from one testimonial to the other. This was built using Bootstrap where I then changed the color to suit the theme of the website.
-### Service Features
+### Offers Features
 * The Hero Image has the same features as the homepage image. The only difference was the image used.
-* The Service  section has two paragraphs aligned side by side with each other that explain the services we offer. The paragraphs fall on top of each other when viewed on smaller screens. This section also has two images side by side that respond the same as the text. Below this is a contact us button that directs you to the Contact us page.
+* The Service section has two paragraphs aligned side by side with each other that explain the services we offer. The paragraphs fall on top of each other when viewed on smaller screens. This section also has two images side by side that respond the same as the text. Below this is a contact us button that directs you to the Contact us page.
 * The Products section consists of 3 divs placed side by side with another.. Inside each div you have a header with the products name with the image below, followed be a description of the product. On smaller devices the div sections fall on top of each other.
 ### Contact Features
-* The form was built to appear differently depending on the screen sizes to improve the visual appearance. ( This can be seen in the Contact us  section)
+* The form was built to appear differently depending on the screen sizes to improve the visual appearance. ( This can be seen in the Contact us section)
 * The form has a field to enter your Name using text which was done using the input=’”text”
 * The email section has been set to accept email addresses only within this box.
 * The number section also requires a number before you are able to submit.
