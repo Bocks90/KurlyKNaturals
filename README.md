@@ -134,9 +134,9 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 * I used Bootstrap 4 to help build grids and my Carousel testimonial.
 * I also used CSS to style the layout to ensure that the paddings, margins and positioning of my layouts looked good.
 ## Homepage WireFrame
-![Homepage WireFrame](readmefiles/homewireframe.jpg)
+![Homepage WireFrame](readmefiles/homewireframe.png)
 ## Service WireFrame
-![Service Wireframe](readmefiles/servicewireframe.png)
+![Service Wireframe](readmefiles/servicewireframe.jpg)
 ## Form WireFrame
 ![Testimonial WireFrame](readmefiles/formwireframe.jpg)
 
