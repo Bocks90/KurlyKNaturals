@@ -93,12 +93,13 @@ nav a:hover {
 
 #navbarmenu li {
     font-size: 1.2rem;
+    text-transform: uppercase;
 } 
 
 li {
     margin: 0 auto;
     padding: 8px 12px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 1.75rem;
     margin-bottom: 0;
@@ -312,7 +313,7 @@ font-size: 3rem;
     font-size: 1.5rem;
     margin-bottom: 0;
     text-align: center;
-    color: var(--black);
+    color: var(--off-white);
     margin-top: 12px;
     font-weight: bold;
 }
