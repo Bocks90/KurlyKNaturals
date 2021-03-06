@@ -498,22 +498,26 @@ font-size: 3rem;
 #photos h2 {
     color: var(--main-brown);
     font-weight: 900;
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
-    border: 6px groove var(--main-brown);
+    border: 6px solid var(--main-brown);
     margin-bottom: 24px;
+    font-size: 2.2rem;
 }
 
 #photos h3 {
     color: var(--main-brown);
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: 700;
     text-align: center;
     text-decoration: underline ;
     padding-bottom: 16px;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
 }
 
+#photos i {
+    display:block;
+}
 
 #photos p{
     color: var(--main-brown);
