@@ -86,7 +86,7 @@ p {
 
 .nav-item a i {
     display: block;
-    font-size: 24px;
+    font-size: 1 rem;
     text-align: center;
 }
 
@@ -94,6 +94,10 @@ nav a:hover {
   color: gold;
   text-decoration: none;
 }
+
+#navbarmenu li {
+    font-size: 1.2rem;
+} 
 
 li {
     margin: 0 auto;
@@ -106,11 +110,7 @@ li {
     color: var(--off-white); 
 }
 
-section {
-    font-family: 'Cormorant Garamond', sans-serif; 
-}
-
-h2 h4 h1 {
+h2 h4 h3 h1 {
     font-family: 'Cormorant Garamond', sans-serif;
     text-align: center;  
 }
@@ -208,7 +208,7 @@ font-size: 3rem;
 
  #cover-text i{
      font-weight: bold;
-     font-size:24px;
+     font-size: 1.5rem;
  }
 
  #cover-img {
@@ -270,7 +270,7 @@ font-size: 3rem;
 }
 
 .offer-section h2 {
-    font-size: 54px;
+    font-size: 3rem;
     margin-top: 32px;
     margin-bottom: 24px;
     display: inline-block;
@@ -303,17 +303,17 @@ font-size: 3rem;
     text-align: center;
     font-family: 'Cormorant Garamond', sans-serif;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
 .offer-section .offer-box h3 {
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: bolder;
 }
 
 .offer-section p {
-    font-size: 28px;
+    font-size: 1.5rem;
     margin-bottom: 0;
     text-align: center;
     color: var(--off-white);
@@ -326,7 +326,7 @@ font-size: 3rem;
     background-color: var(--off-white);
     position: inherit;
     border-radius: 8px;
-    font-size: 28px;
+    font-size: 1.5rem;
     font-weight: bold;
     display: inline-block;
     text-transform: uppercase;
@@ -345,7 +345,7 @@ font-size: 3rem;
 
 .benefits h2 {
     margin-bottom: 50px;
-    font-size: 54px;
+    font-size: 3rem;
     margin-top: 32px;
     margin-bottom: 24px;
     text-transform: capitalize;
@@ -435,7 +435,7 @@ font-size: 3rem;
 }
 
 .carousel-control i {
-    font-size: 68px;
+    font-size: 4.25rem;
     line-height: 42px;
     position: absolute;
     display: inline-block;
@@ -531,7 +531,7 @@ font-size: 3rem;
     background-color: var(--md-brown);
     position: absolute;
     right: 40%;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
     text-transform: uppercase;
     }
@@ -635,7 +635,7 @@ form .form-box {
     text-align: center; 
     font-family: 'Cormorant Garamond', sans-serif;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 }
