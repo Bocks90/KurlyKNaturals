@@ -75,10 +75,6 @@ p {
     font-size: 1.25rem;
 }
 
-.offer-section .offer-box p {
-        color: var(--black);
-}
-
 .nav-item a {
     font-family: 'Cormorant Garamond', sans-serif;
     color: var(--off-white); 
@@ -316,7 +312,9 @@ font-size: 3rem;
     font-size: 1.5rem;
     margin-bottom: 0;
     text-align: center;
-    color: var(--off-white);
+    color: var(--black);
+    margin-top: 12px;
+    font-weight: bold;
 }
 
 .offers-btn  {
@@ -488,6 +486,8 @@ font-size: 3rem;
 #photos p {
     color: var(--main-brown);
     text-align: center;
+    font-weight: bold;
+    color: var(--main-brown);
 }
 
 .services {
@@ -498,12 +498,11 @@ font-size: 3rem;
 
 #photos h2 {
     color: var(--main-brown);
-    font-weight: 900;
     text-transform: capitalize;
     text-align: center;
     border: 6px solid var(--main-brown);
     margin-bottom: 24px;
-    font-size: 2.2rem;
+    font-size: 3rem;
 }
 
 #photos h3 {
@@ -518,10 +517,6 @@ font-size: 3rem;
 
 #photos i {
     display:block;
-}
-
-#photos p{
-    color: var(--main-brown);
 }
 
 .contact-btn {
@@ -542,13 +537,13 @@ font-size: 3rem;
 /*----------------------------------------- Products & Service*/
 .products h2 {
     color: var(--black);
-    font-weight: 900;
     text-transform: capitalize;
     text-align: center;
     padding: 24px 16px;
-    border: 6px solid var(--main-brown);
+    border: 6px solid var(--black);
     margin-top: 16px;
-    font-size: 2.2rem;
+    margin-bottom: 32px;
+    font-size: 3rem;
 }
 .natural-products {
     width: 100%;
@@ -562,10 +557,11 @@ font-size: 3rem;
 .natural-products h3 {
     text-align: center;
     font-size: 1.7rem;
-    padding: 8px;
+    padding: 12px;
     color: var(--black);
     font-size: 1.7rem;
-    font-weight: bold;
+    font-weight: 700;
+    text-decoration: underline;
 }
 
 .natural-products img {
@@ -578,6 +574,7 @@ font-size: 3rem;
 .natural-products p {
     color: var(--black);
     font-size: 1.2rem;
+    font-weight: bold;
 }
 /*----------------------------------------- Forms*/
 form {
