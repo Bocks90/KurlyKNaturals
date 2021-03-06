@@ -159,7 +159,7 @@ I used a gold pattern background-image for the "Contact us" page. I felt like th
 ## Features Across the Site
 
 ### Header
-The Navigation bar can be found  on the Header Section on every page. The links have the hoover feature which turns the writing Gold when you hover your mouse over the text. They will navigate you to the page you select. I also included a Logo image link which sits on the left side of the header. This link simply redirects you to the homepage. The header needed to be responsive so I used Bootstrap  4 to build the grid and added the class “navbar-expand-sm” to enable the nav bar to collapse on a smaller screen to improve usability. The main color brown has been applied to the background of the header.
+The Navigation bar can be found  on the Header Section on every page. The links have the hover feature which turns the writing Gold when you hover your mouse over the text. They will navigate you to the page you select. I also included a Logo image link which sits on the left side of the header. This link simply redirects you to the homepage. The header needed to be responsive so I used Bootstrap  4 to build the grid and added the class “navbar-expand-sm” to enable the nav bar to collapse on a smaller screen to improve usability. The main color brown has been applied to the background of the header.
 ### Footer
 The footer was built in 3 separate sections which are “Contact details”, “Social Media” and “logo”. I used bootstrap to arrange the layout so that the three sections will stack on top of each other when using a smaller device. The contact details simply has our Telephone and Email address to contact the business on. The Social Media section has direct links to the social media platforms (Facebook, Instagram and Youtube). Once you click on the icons it will navigate you straight to the social media pages. The icons are the logo which was taken from Font Awesome. They have a hover feature that changes color when you hover the cursor over it. The footer uses the main brown theme as a background with off-white text.
 ### Responsiveness
@@ -177,7 +177,7 @@ Links are consistent and they all work fine. I have set a suitable contrast to m
 ### Offers Features
 * The Hero Image has the same features as the homepage image. The only difference was the image used.
 * The Service section has two paragraphs aligned side by side with each other that explain the services we offer. The paragraphs fall on top of each other when viewed on smaller screens. This section also has two images side by side that respond the same as the text. Below this is a contact us button that directs you to the Contact us page.
-* The Products section consists of 3 divs placed side by side with another.. Inside each div you have a header with the products name with the image below, followed be a description of the product. On smaller devices the div sections fall on top of each other.
+* The Products section consists of 3 divs placed side by side with another. Inside each div you have a header with the products name with the image below, followed be a description of the product. On smaller devices the div sections fall on top of each other.
 ### Contact Features
 * The form was built to appear differently depending on the screen sizes to improve the visual appearance. ( This can be seen in the Contact us section)
 * The form has a field to enter your Name using text which was done using the input=’”text”
@@ -220,7 +220,7 @@ The First thing I tested were the features that appear on the browser by demo te
 W3C markup validator was used to check the website for semantic and syntax errors. The browser passed the test for both HTML and CSS validating my code.
 ## Performance Testing
 ### Lighthouse 
-I tested my results on /Lighthouse and these were my results the first time:
+I tested my results on Lighthouse and these were my results the first time:
 
 ![initital Lighthouse test(homepage)](readmefiles/homepagelighthouse.png) 
 ![initital Lighthouse test(offers)](readmefiles/offerslighthouse.png)
@@ -235,7 +235,7 @@ Accessibility was a big issue that I had with my performance results. To boost t
 ### Browser Compatibility
 The website has been tested on a range of browsers (Google Chrome, Firefox, Safari, Microsoft Edge and brave). The website is working and functioning well on all browsers. To do this I demo tested the website on these browsers as stated above in te demo testing section
 ### OS Compatibility
-Tested the website on Windows 10, Android and iOS. iThre aim was to view the responsive changes on different devices.
+Tested the website on Windows 10, Android and iOS. The aim was to view the responsive changes on different devices.
 ### Usability Testing
 I sent my project to my fellow students in the slack community and a few friends that work in the industry with experience to double check that all of my links are working and that the content is responsive.
 ## Testing User Stories
