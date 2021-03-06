@@ -542,11 +542,12 @@ font-size: 3rem;
 .products h2 {
     color: var(--black);
     font-weight: 900;
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     padding: 24px 16px;
-    border: 6px groove var(--main-brown);
-    margin-top: 16px
+    border: 6px solid var(--main-brown);
+    margin-top: 16px;
+    font-size: 2.2rem;
 }
 .natural-products {
     width: 100%;
@@ -559,7 +560,8 @@ font-size: 3rem;
 
 .natural-products h3 {
     text-align: center;
-    padding: 24px;
+    font-size: 1.7rem;
+    padding: 8px;
     color: var(--black);
     font-size: 1.7rem;
     font-weight: bold;
@@ -606,7 +608,7 @@ form .form-box {
 
 /*----------------------------------------- Responsive Adjustments */
 
-@media screen and (max-width: 555px){
+@media screen and (max-width: 565px){
     #banner {
         height:520px;
     }
