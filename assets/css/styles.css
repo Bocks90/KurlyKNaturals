@@ -5,48 +5,44 @@
     --off-white: #fcfcfc;
     --black: #121212;
     --md-brown: #BA9D6D;
+    }
 
-    --max-width: 1500px;
-}
-
-html,
-body {
-    max-width: 100%;
+html body {
+    max-width: var(--max-width)
     overflow-x: hidden;
     margin: 2px;
-}
+    }
 /*----------------------------------------check- background Colors */
 body {
     background-color: var(--main-brown);
     border: 4px solid var(--main-brown);
-}
+    }
  
 .offer-section {
      background-color: var(--main-brown);
-}
+     }
 
 #menu-bar {
     background-color: var(--main-brown);
-}
+    }
 
 .kurly-benefits {
     background-color: var(--main-brown);
-}
+    }
 
 .products {
     background-color: var(--md-brown);
-}
-
+    }
 /*----------------------------------------- text */
 body {
     font-family: 'Cormorant Garamond', sans-serif;
-    font-size: 1.25rem;    
-}
+    font-size: 1.25rem;
+    }
 
 form {
     font-family:'Cormorant Garamond', sans-serif;
     font-size: 1.25rem;
-}
+    }
 
 .benefit-list {
     font-family: 'Cormorant Garamond', sans-serif;
@@ -54,47 +50,46 @@ form {
     text-align: center;
     list-style-type: circle;
     list-style-position: inside;
-    
-}
+    }
 
 .benefits {
     color: var(--off-white);
-}
+    }
 
 #menu-bar {
     position: relative;
-}
+    }
    
 #menu-bar img {
     width: 80px;
     height: 72px;
-}
+    }
 
 p {
     font-family: 'Cormorant Garamond', sans-serif;
     font-size: 1.25rem;
-}
+    }
 
 .nav-item a {
     font-family: 'Cormorant Garamond', sans-serif;
-    color: var(--off-white); 
-}
+    color: var(--off-white);
+    }
 
 .nav-item a i {
     display: block;
     font-size: 1 rem;
     text-align: center;
-}
+    }
 
 nav a:hover {
   color: gold;
   text-decoration: none;
-}
+  }
 
 #navbarmenu li {
     font-size: 1.2rem;
     text-transform: uppercase;
-} 
+    } 
 
 li {
     margin: 0 auto;
@@ -105,59 +100,57 @@ li {
     margin-bottom: 0;
     text-align: center;
     color: var(--off-white); 
-}
+    }
 
 h2 h4 h3 h1 {
     font-family: 'Cormorant Garamond', sans-serif;
     text-align: center;  
-}
+    }
 /*----------------------------------------- footer*/
-
 footer {
     background-color: var(--main-brown);
     color: var(--off-white);
     font-family: 'Cormorant Garamond', sans-serif;
     font-size: 1.5rem;
     text-align: center;
-}
+    }
 
 footer a {
     color: var(--off-white);
-}
+    }
 
 footer img {
     width: 80px;
     height: 72px;
     margin-top: 8px;
-}
+    }
 
 .footer-box {
     padding: 16px 8px
-}
+    }
 
 footer h4 {
     font-weight: 700;
     font-size: 1.5rem;
-}
+    }
 
 footer a {
     text-align: center;
     font-size: 2.5rem;
     padding: 12px;
-}
-
+    }
 
 .fa-youtube {
     color:#c4302b;
     font-size: 3rem;
-}
+    }
 
 .fa-facebook {
     color: #4267B2;
     font-size: 3rem;
-}
+    }
 
-.fa-instagram{
+.fa-instagram {
 color: var(--off-white);
 background: #f09433; 
 background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
@@ -167,19 +160,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 font-size: 3rem;
   }
 
-
 .footer-style h4 {
     font-size: 2rem;
-}
+    }
 /*----------------------------------------- Homepage Image */
-
  #home-img {
      height: 50rem;
      width: 100%;
      background: url(../images/COVER.jpg);
      background-size: cover;
      background-position: center center;
- }
+      }
 
  #cover-text h1 { 
      text-transform: uppercase;
@@ -192,43 +183,36 @@ font-size: 3rem;
      background-color: var(--main-brown);
      opacity: 0.7;
      padding-top: 20px;
-
      height:300px;
      width:400px;
      bottom: 50px;
      right: 50%;
-
      position: absolute;
      margin: 0 auto;
-     
- }
+        }
 
  #cover-text i{
      font-weight: bold;
      font-size: 1.5rem;
- }
+    }
 
  #cover-img {
      position: relative;
      text-align: center;
-        
- }
-
- /*----------------------------------------- Cover image Services */
-
- 
+    }
+ /*----------Cover image Services*/
  #service-img {
      height: 800px;
      width: 100%;
      background: url(../images/servicecoverimg.jpg);
      background-size: cover;
      background-position: center center;
- }
+    }
 
  #cover-text h1 { 
      text-transform: uppercase;
      text-decoration: underline;
-} 
+    } 
 
  #cover-text {
      font-family: 'Cormorant Garamond', sans-serif;
@@ -237,35 +221,28 @@ font-size: 3rem;
      background-color: var(--main-brown);
      opacity: 0.7;
      padding-top: 20px;
-
      height:300px;
      width:400px;
      bottom: 50px;
      right: 50%;
-
      position: absolute;
      margin: 0 auto;
-     
- }
+    }
 
  #cover-text i{
      font-weight: bold;
      font-size:1.5rem;
- }
+    }
 
  #cover-img {
      position: relative;
      text-align: center;
-        
- }
-
+    }
 /*----------------------------------------- Coaching Div box */
-
 .coaching-img img {
     width: 26.25rem;
     height: 17.5rem;
 }
-
 .offer-section h2 {
     font-size: 3rem;
     margin-top: 32px;
@@ -275,7 +252,6 @@ font-size: 3rem;
     padding-bottom: 24px;
     color: var(--off-white);
     text-decoration: underline;
-    
 }
 
 .bg-offers {
@@ -290,6 +266,12 @@ font-size: 3rem;
     background-color: var(--md-brown);
      opacity: 0.9;
      color: var(--black);
+}
+
+.offer-section .offer-box p {
+    color: var(--black);
+    font-size: 1.9rem;
+    font-weight: bold;
 }
 
 .offer-section .offer-box {
@@ -314,7 +296,7 @@ font-size: 3rem;
     margin-bottom: 0;
     text-align: center;
     color: var(--off-white);
-    margin-top: 12px;
+    margin-top: 8px;
     font-weight: bold;
 }
 
@@ -335,7 +317,6 @@ font-size: 3rem;
     .offers-btn:hover {
         color: gold;
     }
-
 /*----------------------------------------- benefits  section */
 .benefits {
     text-align: center;
@@ -353,8 +334,6 @@ font-size: 3rem;
     padding: 16px;
 }
 /*---------------------------------------- Testimonials */
-
-
 .test-style h2 {
     color: var(--black);
     text-align: center;
@@ -439,7 +418,6 @@ font-size: 3rem;
     position: absolute;
     display: inline-block;
     color: rgba(0, 0, 0, 0.8);
-
 }
 
 .carousel .carousel-indicators {
@@ -454,22 +432,21 @@ font-size: 3rem;
 }
 
 .carousel-indicators li {
-          background: red;
+    background: red;
           border-color: transparent;
           box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .carousel-indicators .active {
     background: red;
-          border-color: transparent;
-          box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.2);
+    border-color: transparent;
+    box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .testimonial {
     background-color: var(--md-brown);
 }
 /*----------------------------------------- Banner*/
-
 #banner {
     width: 100%;
     height: 280px;
@@ -546,6 +523,7 @@ font-size: 3rem;
     margin-bottom: 32px;
     font-size: 3rem;
 }
+
 .natural-products {
     width: 100%;
     position: relative;
@@ -604,25 +582,20 @@ form .form-box {
     width:60%;
     height:100px;
 }
-
-/*----------------------------------------- Responsive Adjustments */
-
+/*----------------------------------------- Media Queries */
 @media screen and (max-width: 565px){
     #banner {
         height:520px;
     }
 }
 
-
 @media screen and (max-width:943px) {
-    
-    #cover-text {
+        #cover-text {
         left: 20px;
     }
 }
 
 @media screen and (max-width:943px) {
-
 .offer-section .offer-box {
     width: 80%;
     height: 500px;
@@ -635,16 +608,9 @@ form .form-box {
     font-weight: bold;
     font-size: 1.5rem;
     font-weight: 600;
-}
+  }
 }
 
-
-@media screen and (max-width:943px) {
-.offer-section .offer-box p {
-    padding-top: 12px;
-    color: var(--black);
-}
-}
 
 @media screen and (max-width: 360px){
 .offer-section .offer-box {
@@ -661,17 +627,16 @@ form .form-box {
     }
 }
 
-
 @media screen and (max-width: 600px) {
 #cover-text {
     left: 16px;
     width: 90%; 
-}
+   }
 }
 
 @media screen and (max-width: 550px){
     .coaching-img img {
     width: 17.5rem;
     height: 11.68rem;
-}
+  }
 }
