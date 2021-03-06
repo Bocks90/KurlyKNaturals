@@ -172,7 +172,7 @@ Links are consistent and they all work fine. I have set a suitable contrast to m
 * The Hero Image has a Cover box over it which says the Company name (Kurly K Naturals) with the slogan "Teaching Others How To Grow Long and Healthy Hair". The box has a lower opacity to make it visually smoother. 
 * The Offer section has a paragraph that talks about what the business offers. It also has two images one represents the products and the other services. When viewed on a smaller screen the images stack on top of each other.
 * The Benefits section has an ordered list with bullet points that states the benefits of the business.
-* The homepage has two extra links in the body "more info" redirects you to offers page and "Get in Touch" will redirect you to the contact page. 
+* The homepage has two extra links in the body "Products & Services" redirects you to offers page and "Get in Touch" will redirect you to the contact page. 
 * The Testimonial is a  carousel styled layout that slides from one testimonial to the other. This was built using Bootstrap where I then changed the color to suit the theme of the website.
 ### Offers Features
 * The Hero Image has the same features as the homepage image. The only difference was the image used.

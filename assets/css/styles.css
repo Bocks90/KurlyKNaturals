@@ -32,6 +32,7 @@ body {
 
 .products {
     background-color: var(--md-brown);
+    margin-top: 16px;
     }
 /*----------------------------------------- text */
 body {
@@ -129,11 +130,6 @@ footer img {
     padding: 16px 8px
     }
 
-footer h4 {
-    font-weight: 700;
-    font-size: 1.5rem;
-    }
-
 footer a {
     text-align: center;
     font-size: 2.5rem;
@@ -160,8 +156,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 font-size: 3rem;
   }
 
-.footer-style h4 {
+.footer-style h3 {
     font-size: 2rem;
+    font-weight: bold;
     }
 /*----------------------------------------- Homepage Image */
  #home-img {
@@ -498,9 +495,9 @@ font-size: 3rem;
 }
 
 .contact-btn {
-    padding: 4px;
+    padding: 8px;
     border-radius: 8px;
-    color: var(--off-white);
+    color: var(--black);
     background-color: var(--md-brown);
     position: absolute;
     right: 40%;
