@@ -97,7 +97,8 @@ nav a:hover {
 
 li {
     margin: 0 auto;
-    padding: 8px;
+    padding: 8px 12px;
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 1.75rem;
     margin-bottom: 0;
